@@ -4,6 +4,6 @@ window.onload = function() {
 
 let page;
 
-function main() {
-    page = new Page();
+function main() {    
+    page = new Page(settings);
 }
